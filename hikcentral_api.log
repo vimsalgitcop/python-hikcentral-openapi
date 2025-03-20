@@ -1,0 +1,36 @@
+2025-03-19 11:38:47,811 - INFO - Request to /artemis/api/resource/v1/person/personCode/personInfo successful: {'code': '0', 'msg': 'Success', 'data': {'personId': '1', 'personCode': '6211765992', 'personName': 'ma jack', 'personFamilyName': 'jack', 'personGivenName': 'ma', 'gender': 0, 'orgIndexCode': '5', 'personPhoto': {'picUri': ''}, 'phoneNo': '', 'email': '', 'remark': '', 'beginTime': '2025-03-19T10:28:22-06:00', 'endTime': '2034-05-26T15:00:00+08:00'}}
+2025-03-19 11:38:47,987 - INFO - Request to /artemis/api/resource/v1/person/single/update successful: {'code': '0', 'msg': 'Success', 'data': ''}
+2025-03-19 11:38:47,988 - INFO - Person update response:
+2025-03-19 11:38:47,989 - INFO - {
+    "code": "0",
+    "msg": "Success",
+    "data": ""
+}
+2025-03-19 11:39:06,750 - INFO - Request to /artemis/api/resource/v1/person/personCode/personInfo successful: {'code': '0', 'msg': 'Success', 'data': {'personId': '1', 'personCode': '6211765992', 'personName': 'ma jack', 'personFamilyName': 'jack', 'personGivenName': 'ma', 'gender': 0, 'orgIndexCode': '5', 'personPhoto': {'picUri': ''}, 'phoneNo': '', 'email': '', 'remark': '', 'beginTime': '2025-03-19T10:28:22-06:00', 'endTime': '2034-05-26T15:00:00+08:00'}}
+2025-03-19 11:39:06,899 - INFO - Request to /artemis/api/resource/v1/person/single/update successful: {'code': '0', 'msg': 'Success', 'data': ''}
+2025-03-19 11:39:06,901 - INFO - Person update response:
+2025-03-19 11:39:06,901 - INFO - {
+    "code": "0",
+    "msg": "Success",
+    "data": ""
+}
+2025-03-19 11:59:27,567 - INFO - Request to /artemis/api/resource/v1/person/personCode/personInfo successful: {'code': '128', 'msg': 'The request resource does not exist', 'data': ''}
+2025-03-19 11:59:27,569 - ERROR - Unexpected error: dto.person_dto.Person() argument after ** must be a mapping, not str
+2025-03-19 12:03:33,218 - INFO - Request to /artemis/api/resource/v1/person/personCode/personInfo successful: {'code': '128', 'msg': 'The request resource does not exist', 'data': ''}
+2025-03-19 12:03:33,219 - ERROR - Unexpected error: dto.person_dto.Person() argument after ** must be a mapping, not str
+2025-03-19 12:03:45,182 - INFO - Request to /artemis/api/resource/v1/person/personCode/personInfo successful: {'code': '0', 'msg': 'Success', 'data': {'personId': '1', 'personCode': '6211765992', 'personName': 'ma jack', 'personFamilyName': 'jack', 'personGivenName': 'ma', 'gender': 0, 'orgIndexCode': '5', 'personPhoto': {'picUri': ''}, 'phoneNo': '', 'email': '', 'remark': '', 'beginTime': '2025-03-19T10:28:22-06:00', 'endTime': '2034-05-26T15:00:00+08:00'}}
+2025-03-19 12:03:45,412 - INFO - Request to /artemis/api/resource/v1/person/single/update successful: {'code': '0', 'msg': 'Success', 'data': ''}
+2025-03-19 12:03:45,414 - INFO - Person update response:
+2025-03-19 12:03:45,415 - INFO - {
+    "code": "0",
+    "msg": "Success",
+    "data": ""
+}
+2025-03-19 12:59:16,900 - INFO - Request to /artemis/api/resource/v1/person/personCode/personInfo successful: {'code': '0', 'msg': 'Success', 'data': {'personId': '1', 'personCode': '6211765992', 'personName': 'ma jack', 'personFamilyName': 'jack', 'personGivenName': 'ma', 'gender': 0, 'orgIndexCode': '5', 'personPhoto': {'picUri': ''}, 'phoneNo': '', 'email': '', 'remark': '', 'beginTime': '2025-03-19T10:28:22-06:00', 'endTime': '2034-05-26T15:00:00+08:00'}}
+2025-03-19 12:59:17,162 - INFO - Request to /artemis/api/resource/v1/person/single/update successful: {'code': '0', 'msg': 'Success', 'data': ''}
+2025-03-19 12:59:17,164 - INFO - Person update response:
+2025-03-19 12:59:17,164 - INFO - {
+    "code": "0",
+    "msg": "Success",
+    "data": ""
+}
